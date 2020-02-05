@@ -1,0 +1,1 @@
+curator --config /opt/curator-config/config.yml /opt/curator-config/action.yml
