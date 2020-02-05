@@ -1,5 +1,7 @@
 # sample data
-data/*
+data/wfm/*log*
+data/oi/*json
+data/adi/*xml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
